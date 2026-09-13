@@ -1,0 +1,16 @@
+{
+  "name": "ToolKit — PDF Tools",
+  "short_name": "ToolKit",
+  "description": "Free online PDF tools — merge, split, compress, image to PDF. All in your browser.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fef9f4",
+  "theme_color": "#f97316",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
